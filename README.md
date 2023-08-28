@@ -2,7 +2,7 @@
 
 I'm Felipe, my main interests are learning new things, solving problems, building things (tangible or intangible), road cycling, music, drumming and cats :)
 
-I'm a father of 3 beautiful cats with my wife.
+I'm the proud father of 3 beautiful cats with my wife.
 
 <!-- ![image](https://user-images.githubusercontent.com/20798216/214195156-feb0fe6f-1454-406e-9173-1bf7e8743424.png) -->
 
